@@ -1,2 +1,15 @@
-# GameBoost-DZ
-GameBoost DZ Android App
+# GameBoost DZ
+
+نسخة أولية (MVP) لتطبيق أدوات للاعبين.
+
+## التشغيل
+1. ثبّت Flutter وAndroid Studio.
+2. افتح المجلد في Android Studio أو VS Code.
+3. نفّذ:
+   flutter pub get
+   flutter run
+
+## ملاحظات
+- هذه نسخة واجهات وتجربة أولية.
+- لا تحتوي بعد على نظام إعلانات أو اشتراكات.
+- حاسبة DPI الحالية تقديرية للتجربة وليست قياساً فعلياً للجهاز.
